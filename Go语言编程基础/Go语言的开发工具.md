@@ -394,6 +394,6 @@ sudo ./goland.sh
 [**Goland快捷键**](http://c.biancheng.net/view/6216.html)
 
 ---
-**作者：张电永**
+**作者：小和尚学编程**
 **时间：2020-02-06 22:33:29 星期四**
 

@@ -113,5 +113,5 @@ func getSumAndSub(n1 int, n2 int)(int, int){
 [**Go语言的历史回顾**](https://www.infoq.cn/article/kX69fGExcjEeCzz6Crie)
 
 ---
-**作者：张电永**
+**作者：小和尚学编程**
 **时间：2019-12-28 22:29:49 星期六**
